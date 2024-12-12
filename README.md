@@ -23,9 +23,10 @@ The goal of this project is to:
 - `Dataset` : Shopiping Trends.csv.
 
 ## Images
+![images](https://github.com/Priyanka-1912/Shopiping_Trends_Analysis/blob/main/3.png)
 ![images](https://github.com/Priyanka-1912/Shopiping_Trends_Analysis/blob/main/1.png)
 ![images](https://github.com/Priyanka-1912/Shopiping_Trends_Analysis/blob/main/2.png)
-![images](https://github.com/Priyanka-1912/Shopiping_Trends_Analysis/blob/main/3.png)
+
 
 ## Getting Started
 
